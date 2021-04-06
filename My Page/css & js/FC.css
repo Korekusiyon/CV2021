@@ -46,7 +46,7 @@ a{
 }
 
 .info{
-    width:20.5%; padding:0px;
+    width:15.5%; padding:0px;
     margin-top: 10px; background-color:white;
     text-align:center; height:3%;
     line-height:30px;
@@ -55,7 +55,7 @@ a{
 }
 
 .link{
-    width: 8.5%; padding:0px;
+    width: 8%; padding:0px;
     margin-top: 10px; background-color:white;
     text-align:center; height:3%;
     line-height:30px;
